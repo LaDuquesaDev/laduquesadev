@@ -3,7 +3,6 @@
 
 <img src="https://i.imgur.com/ajsAmUQ.png">
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/laduquesadev)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9iZHV96PZ6-7IzuT5eEMtg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9iZHV96PZ6-7IzuT5eEMtg)
 ![GitHub followers](https://img.shields.io/github/followers/laduquesadev?style=social)
