@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, My name is Yulimar, but everyone calls me Yuli</h2>
 <h4 align="center">A frontend passionate about technology and creating new things or experiences that inspire other people.</h4>
 
-[Banner LaDuquesaDev](https://i.imgur.com/ajsAmUQ.png)
+<img src="https://i.imgur.com/ajsAmUQ.png">
 
 ![GitHub followers](https://img.shields.io/github/followers/laduquesadev?style=social)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/laduquesadev)
