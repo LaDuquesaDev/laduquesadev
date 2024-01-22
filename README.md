@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, My name is Yulimar, but everyone calls me Yuli</h2>
+<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli</h2>
 <h4 align="center">A frontend passionate about technology and creating new things or experiences that inspire other people.</h4>
 <br></br>
 <img src="https://i.imgur.com/ajsAmUQ.png">
