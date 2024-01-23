@@ -14,7 +14,91 @@
 <img src="https://i.imgur.com/5ov8Diy.png">
 
 ## Languages and Tools
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://es.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></p>
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="react" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/></a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://es.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Ninja Social Network</h3>
+<div align="center">
+<a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye" width="400" alt="Ninja Social Network"></a>
+<p>
+<a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
 
 ## Connect with me
 <p align="left">
