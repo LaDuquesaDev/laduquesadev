@@ -32,11 +32,7 @@
 <h3 align="center">Ninja Social Network</h3>
 <div align="center">
 <a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
-<p>
-<a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
+<p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
 <p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
 </div>
                                                                                       
@@ -47,11 +43,7 @@
 <div align="center">                                       
 <a href="https://yunote-88484.web.app/" target="_blank"><img src="https://i.imgur.com/GJmJg9w.png" width="400" alt="Yu-Note"></a>
 <br>
-<p>
-<a href="https://github.com/LaDuquesaDev/yu-note" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
+<p><a href="https://github.com/LaDuquesaDev/yu-note" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
 </p>It is an app that allows you to take notes, edit them and delete them, it is developed with React and Bootstrap, don't forget anything</p>
 </div>                                                             
 </table>                                                                                 
@@ -59,36 +51,25 @@
 <br>
 
 <table>
-<tr>
+<tr>  
+<td width="50%">
+<h3 align="center">MD LINKS</h3>
+<div align="center">
+<a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
+<p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
+
+With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
+</div>                                                                                 
+</td>
+
 <td width="50%">
 <h3 align="center">Cifrado César</h3>
 <div align="center">
-<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/4DHtd00.png" width="400" alt="Cifrado-Cesar"></a>
-<p>
-<a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
+<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
+<p><a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
 <p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
 </div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
 </td>  
 </table>                                                                                 
 </div>
