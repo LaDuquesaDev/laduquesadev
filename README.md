@@ -85,6 +85,7 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
   <a href="https://www.youtube.com/@laduquesadev"><img alt="Youtube" title="LaDuquesaDev Youtube" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/laduquesadev/"><img alt="Instagram" title="LaDuquesaDev Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
+<br></br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
