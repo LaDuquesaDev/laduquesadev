@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">MD LINKS</h3>
 <div align="center">
-<a href=https://www.npmjs.com/package/md-links-yuli" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
+<a href="www.npmjs.com/package/md-links-yuli" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
 <p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
 <p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
 
