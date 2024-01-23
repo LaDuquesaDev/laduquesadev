@@ -11,7 +11,7 @@
 
 ## Who I am?
 
-<img src="https://i.imgur.com/5ov8Diy.png">
+<div align="center"><img src="https://i.imgur.com/5ov8Diy.png"></div>
 
 ## Languages and Tools
 <p align="left"> 
@@ -28,7 +28,7 @@
 <br></br>
 
 ## Some of my projects
-
+<div>
 <table>
 <tr>
 <td width="50%">
@@ -40,7 +40,6 @@
 
 With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
 </div>      
-                                                                                      
 </td>
 
 <td width="50%">
@@ -49,15 +48,15 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 <a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
 <p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
 <p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
-</div>                                                         
-</table>                                                                                 
 </div>
+  
+</table>                                                                                 
+
 <br>
 
 <table>
 <tr>  
- 
- <td width="50%">
+<td width="50%">
 <h3 align="center">Cifrado César</h3>
 <div align="center">
 <a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
@@ -74,8 +73,8 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 <p><a href="https://github.com/LaDuquesaDev/yu-note" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
 </p>It is an app that allows you to take notes, edit them and delete them, it is developed with React and Bootstrap, don't forget anything</p>
 </div>   
+</td>
 
-</td>  
 </table>                                                                                 
 </div>
 
