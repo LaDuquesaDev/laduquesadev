@@ -25,17 +25,45 @@
   <a href="https://es.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
+<br></br>
+
+## Some of my projects
 
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">MD LINKS</h3>
+<div align="center">
+<a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
+<p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
+
+With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
+</div>      
+                                                                                      
+</td>
+
 <td width="50%">
 <h3 align="center">Ninja Social Network</h3>
 <div align="center">
 <a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
 <p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
 <p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
+</div>                                                         
+</table>                                                                                 
 </div>
-                                                                                      
+<br>
+
+<table>
+<tr>  
+ 
+ <td width="50%">
+<h3 align="center">Cifrado César</h3>
+<div align="center">
+<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
+<p><a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
+</div>                                                                          
 </td>
 
 <td width="50%">
@@ -45,31 +73,8 @@
 <br>
 <p><a href="https://github.com/LaDuquesaDev/yu-note" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
 </p>It is an app that allows you to take notes, edit them and delete them, it is developed with React and Bootstrap, don't forget anything</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+</div>   
 
-<table>
-<tr>  
-<td width="50%">
-<h3 align="center">MD LINKS</h3>
-<div align="center">
-<a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
-<p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
-
-With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
-</div>                                                                                 
-</td>
-
-<td width="50%">
-<h3 align="center">Cifrado César</h3>
-<div align="center">
-<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
-<p><a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
-</div>
 </td>  
 </table>                                                                                 
 </div>
