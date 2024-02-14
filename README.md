@@ -11,7 +11,7 @@
 
 ## Who I am?
 
-<div align="center"><img height="320" src="https://i.imgur.com/5ov8Diy.png"></div>
+<div align="center"><img height="280" src="https://i.imgur.com/5ov8Diy.png"></div>
 
 ## Languages and Tools
 <p align="left"> 
