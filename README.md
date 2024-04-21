@@ -11,7 +11,9 @@
 
 ## Who I am?
 
-<div align="center"><img height="500" src="https://imgur.com/dBEG0GQ.png"></div>
+<div align="center">
+ <img style="max-width: "100%"; height: auto;" src="https://imgur.com/dBEG0GQ.png" alt="Who I am">
+</div>
 
 ## Languages and Tools
 <p align="left"> 
