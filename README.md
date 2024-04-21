@@ -34,7 +34,6 @@
 ## Some of my projects
 <div style=
   @media only screen and (max-width: 600px) {
-    /* Estilos para dispositivos móviles */
     table {
       width: 100%;
     }
