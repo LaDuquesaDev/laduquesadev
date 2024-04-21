@@ -11,7 +11,7 @@
 
 ## Who I am?
 
-<div align="center"><img height="280" src="https://i.imgur.com/5ov8Diy.png"></div>
+<div align="center"><img height="280" src="[https://imgur.com/dBEG0GQ](https://imgur.com/dBEG0GQ)"></div>
 
 ## Languages and Tools
 <p align="left"> 
@@ -43,11 +43,11 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 </td>
 
 <td width="50%">
-<h3 align="center">Ninja Social Network</h3>
+<h3 align="center">Cifrado César</h3>
 <div align="center">
-<a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
-<p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
+<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
+<p><a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
 </div>
   
 </table>                                                                                 
@@ -57,11 +57,11 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 <table>
 <tr>  
 <td width="50%">
-<h3 align="center">Cifrado César</h3>
+<h3 align="center">Ninja Social Network</h3>
 <div align="center">
-<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
-<p><a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
+<a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
+<p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
 </div>                                                                          
 </td>
 
