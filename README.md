@@ -32,17 +32,7 @@
 
 
 ## Some of my projects
-<div style=
-  @media only screen and (max-width: 600px) {
-    table {
-      width: 100%;
-    }
-    table td {
-      display: block;
-      width: 100%;
-    }
-  }
->
+<div>
 <table>
 <tr>
 <td width="50%">
