@@ -61,15 +61,6 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 <table>
 <tr>  
 <td width="50%">
-<h3 align="center">Ninja Social Network</h3>
-<div align="center">
-<a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
-<p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
-</div>                                                                          
-</td>
-
-<td width="50%">
 <h3 align="center">Yu-Note</h3>
 <div align="center">                                       
 <a href="https://yunote-88484.web.app/" target="_blank"><img src="https://i.imgur.com/GJmJg9w.png" width="400" alt="Yu-Note"></a>
@@ -79,6 +70,14 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 </div>   
 </td>
 
+<td width="50%">
+<h3 align="center">Ninja Social Network</h3>
+<div align="center">
+<a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
+<p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
+</div>                                                                          
+</td>
 </table>                                                                                 
 </div>
 
