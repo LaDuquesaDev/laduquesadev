@@ -63,9 +63,9 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 <td width="50%">
 <h3 align="center">Coffey Pets</h3>
 <div align="center">                                       
-<a href="[https://laduquesadev.github.io/coffey-ecommerce/](https://imgur.com/5WmStxA)" target="_blank"><img src="https://i.imgur.com/5WmStxA.png" width="400" alt="Coffey Pets"></a>
+<a href="https://laduquesadev.github.io/coffey-ecommerce/" target="_blank"><img src="https://i.imgur.com/5WmStxA.png" width="400" alt="Coffey Pets"></a>
 <br>
-<p><a href="https://laduquesadev.github.io/coffey-ecommerce/" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p><a href="https://github.com/LaDuquesaDev/coffey-ecommerce" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
 </p>Coffey Pets is an online pet products store developed with React and TypeScript, and inspired by my little dog named Coffey 🐶.
 
 The application features a product catalog with filtering and sorting functionalities, designed to offer an intuitive and responsive user experience.</p>
