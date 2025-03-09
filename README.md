@@ -36,14 +36,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">MD LINKS</h3>
-<div align="center">
-<a href="https://npmjs.com/package/md-links-yuli" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
-<p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
+<h3 align="center">Coffey Pets</h3>
+<div align="center">                                       
+<a href="https://laduquesadev.github.io/coffey-ecommerce/" target="_blank"><img src="https://i.imgur.com/5WmStxA.png" width="400" alt="Coffey Pets"></a>
+<br>
+<p><a href="https://github.com/LaDuquesaDev/coffey-ecommerce" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+</p>Coffey Pets is an online pet products store developed with React and TypeScript, and inspired by my little dog named Coffey 🐶.
 
-With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
-</div>      
+The application features a product catalog with filtering and sorting functionalities, designed to offer an intuitive and responsive user experience.</p>
+</div>   
 </td>
 
 <td width="50%">
@@ -61,15 +62,14 @@ With MD-LINKS you will be able to read files that contain links (links/links), i
 <table>
 <tr>  
 <td width="50%">
-<h3 align="center">Coffey Pets</h3>
-<div align="center">                                       
-<a href="https://laduquesadev.github.io/coffey-ecommerce/" target="_blank"><img src="https://i.imgur.com/5WmStxA.png" width="400" alt="Coffey Pets"></a>
-<br>
-<p><a href="https://github.com/LaDuquesaDev/coffey-ecommerce" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
-</p>Coffey Pets is an online pet products store developed with React and TypeScript, and inspired by my little dog named Coffey 🐶.
+<h3 align="center">MD LINKS</h3>
+<div align="center">
+<a href="https://npmjs.com/package/md-links-yuli" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
+<p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
+<p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
 
-The application features a product catalog with filtering and sorting functionalities, designed to offer an intuitive and responsive user experience.</p>
-</div>   
+With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
+</div>      
 </td>
 
 <td width="50%">
