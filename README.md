@@ -1,19 +1,36 @@
-<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli</h2>
-<h4 align="center">A frontend passionate about technology and creating new experiences that inspire other people.</h4>
-<br></br>
-<img src="https://i.imgur.com/ajsAmUQ.png">
+<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli (or sometimes duquesa)</h2>
+<h3 align="center">Frontend Developer | DevRel Advocate</h3>
+<p align="center">
+  <strong>Creating impactful software with a passion for clean code and great UX</strong>
+</p>
+
+## Who I am?
+
+```javascript
+const buildIntro = ({ name, techStack, learning, location, goals }) => `
+👩‍💻 ${name} — Frontend Developer  
+💡 Tech Stack: ${techStack.join(", ")}  
+📚 Learning: ${learning}  
+📍 Based in: ${location}  
+🎯 Goals: ${goals.join(" | ")}
+`;
+
+const intro = buildIntro({
+  name: "Yulimar Duque de Alba",
+  techStack: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
+  learning: "AI & Machine Learning",
+  location: "Medellín",
+  goals: ["Build impactful projects", "Grow as DevRel", "Work remotely"],
+});
+
+console.log(intro);
+```
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9iZHV96PZ6-7IzuT5eEMtg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9iZHV96PZ6-7IzuT5eEMtg)
 ![GitHub followers](https://img.shields.io/github/followers/laduquesadev?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/laduquesadev)
 <br></br>
-
-## Who I am?
-
-<div align="center">
- <img style="max-width: "100%"; height: auto;" src="https://imgur.com/38FVqlq.png" alt="Who I am">
-</div>
 
 ## Languages and Tools
 <p align="left"> 
@@ -29,59 +46,34 @@
 </p>
 <br></br>
 
+## 🚀 Featured Projects
 
+### 🐶 [Coffey Pets](https://laduquesadev.github.io/coffey-ecommerce/)  
+**Stack:** React, TypeScript  
+📦 [Código fuente](https://github.com/LaDuquesaDev/coffey-ecommerce)  
+Tienda online de productos para mascotas, inspirada en mi perrito Coffey. Incluye filtrado, ordenamiento y una experiencia responsive.
 
-## Some of my projects
-<div>
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Coffey Pets</h3>
-<div align="center">                                       
-<a href="https://laduquesadev.github.io/coffey-ecommerce/" target="_blank"><img src="https://i.imgur.com/5WmStxA.png" width="400" alt="Coffey Pets"></a>
-<br>
-<p><a href="https://github.com/LaDuquesaDev/coffey-ecommerce" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
-</p>Coffey Pets is an online pet products store developed with React and TypeScript, and inspired by my little dog named Coffey 🐶.
+---
 
-The application features a product catalog with filtering and sorting functionalities, designed to offer an intuitive and responsive user experience.</p>
-</div>   
-</td>
+### 🔐 [Cifrado César](https://laduquesadev.github.io/Cifrado-Cesar/src/index.html)  
+**Stack:** HTML, CSS, JavaScript Vanilla  
+📦 [Código fuente](https://github.com/LaDuquesaDev/Cifrado-Cesar)  
+Aplicación que cifra y descifra textos usando el algoritmo de César para una comunicación segura.
 
-<td width="50%">
-<h3 align="center">Cifrado César</h3>
-<div align="center">
-<a href="https://laduquesadev.github.io/Cifrado-Cesar/src/index.html" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400" alt="Cifrado-Cesar"></a>
-<p><a href="https://github.com/LaDuquesaDev/Cifrado-Cesar" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
-</div>
-  
-</table>                                                                                 
+---
 
-<br>
+### 🔗 [MD-LINKS](https://npmjs.com/package/md-links-yuli)  
+**Stack:** Node.js, JavaScript  
+📦 [Código fuente](https://github.com/LaDuquesaDev/md-links)  
+Librería y CLI para validar enlaces en archivos Markdown. Ideal para mantener documentación limpia y funcional.
 
-<table>
-<tr>  
-<td width="50%">
-<h3 align="center">MD LINKS</h3>
-<div align="center">
-<a href="https://npmjs.com/package/md-links-yuli" target="_blank"><img src="https://i.imgur.com/yb9dPBy.png" width="400" alt="md links yuli"></a>
-<p><a href="https://github.com/LaDuquesaDev/md-links/tree/main" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>MD-LINKS is a library and a command line tool (CLI) executable with Node.js, which allows identifying, validating and obtaining statistics of the URLs contained in format files Markdown.
+---
 
-With MD-LINKS you will be able to read files that contain links (links/links), identify which ones are broken or no longer valid, in order to prevent them from damaging the value of the information you want to share.</p>
-</div>      
-</td>
-
-<td width="50%">
-<h3 align="center">Ninja Social Network</h3>
-<div align="center">
-<a href="https://laduquesadev.github.io/Ninja-Social-Network/src/index.html" target="_blank"><img src="https://imgur.com/fhQCOye.png" width="400" alt="Ninja Social Network"></a>
-<p><a href="https://github.com/LaDuquesaDev/Ninja-Social-Network" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-<p>Ninja Social Network. If you are a crack in topics related to technology such as: Digital Marketing, Data science, Artificial Intelligence, Automation, Programming, among others, here you will connect with companies that need your consultancies, and if you are a company, here you will find the right person for solve your doubts.</p>
-</div>                                                                          
-</td>
-</table>                                                                                 
-</div>
+### 🥷 [Ninja Social Network](https://laduquesadev.github.io/Ninja-Social-Network/src/index.html)  
+**Stack:** JavaScript, Firebase  
+📦 [Código fuente](https://github.com/LaDuquesaDev/Ninja-Social-Network)  
+Red social para conectar expertos en tecnología con empresas que necesitan consultorías personalizadas.
+<br></br>
 
 ## Connect with me
 <p align="left">
