@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli (or sometimes duquesa)</h2>
-<h3 align="center">Frontend Developer | DevRel Advocate</h3>
+<h3 align="center">Frontend Developer | DevRel</h3>
 <p align="center">
   <strong>Creating impactful software with a passion for clean code and great UX</strong>
 </p>
