@@ -20,7 +20,7 @@ const intro = buildIntro({
   techStack: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
   learning: "AI & Machine Learning",
   location: "Medellín",
-  goals: ["Build impactful projects", "Grow as DevRel", "Work remotely"],
+  goals: ["Build impactful projects", "Stay healthy", "Have fun"],
 });
 
 console.log(intro);
