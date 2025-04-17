@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli (or sometimes duquesa)</h2>
+<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli (or sometimes duchess)</h2>
 <h3 align="center">Frontend & Mobile Developer | DevRel</h3>
 <p align="center">
   <strong>Creating impactful software with a passion for clean code and great UX</strong>
@@ -48,31 +48,31 @@ console.log(intro);
 
 ## 🚀 Featured Projects
 
+### ✒️ [La Duquesa Blog](https://laduquesa-blog.vercel.app/)  
+**Stack:** Astro, TypeScript, Tailwind CSS  
+📦 [Código fuente](https://github.com/LaDuquesaDev/laduquesa-blog)  
+Personal blog where I share articles related to technology and lifestyle as a software engineer.
+
+---
+
 ### 🐶 [Coffey Pets](https://laduquesadev.github.io/coffey-ecommerce/)  
 **Stack:** React, TypeScript  
 📦 [Código fuente](https://github.com/LaDuquesaDev/coffey-ecommerce)  
-Tienda online de productos para mascotas, inspirada en mi perrito Coffey. Incluye filtrado, ordenamiento y una experiencia responsive.
+Online pet products store (layout only), inspired by my little dog Coffey. Includes filtering, sorting and a responsive experience.
 
 ---
 
 ### 🔐 [Cifrado César](https://laduquesadev.github.io/Cifrado-Cesar/src/index.html)  
 **Stack:** HTML, CSS, JavaScript Vanilla  
 📦 [Código fuente](https://github.com/LaDuquesaDev/Cifrado-Cesar)  
-Aplicación que cifra y descifra textos usando el algoritmo de César para una comunicación segura.
+Application that encrypts and decrypts texts using the Caesar algorithm for secure communication.
 
 ---
 
 ### 🔗 [MD-LINKS](https://npmjs.com/package/md-links-yuli)  
 **Stack:** Node.js, JavaScript  
 📦 [Código fuente](https://github.com/LaDuquesaDev/md-links)  
-Librería y CLI para validar enlaces en archivos Markdown. Ideal para mantener documentación limpia y funcional.
-
----
-
-### 🥷 [Ninja Social Network](https://laduquesadev.github.io/Ninja-Social-Network/src/index.html)  
-**Stack:** JavaScript, Firebase  
-📦 [Código fuente](https://github.com/LaDuquesaDev/Ninja-Social-Network)  
-Red social para conectar expertos en tecnología con empresas que necesitan consultorías personalizadas.
+Library and CLI to validate links in Markdown files. Ideal for maintaining clean and functional documentation.
 <br></br>
 
 ## Connect with me
