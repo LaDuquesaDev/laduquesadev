@@ -50,28 +50,28 @@ console.log(intro);
 
 ### ✒️ [La Duquesa Blog](https://laduquesa-blog.vercel.app/)  
 **Stack:** Astro, TypeScript, Tailwind CSS  
-📦 [Código fuente](https://github.com/LaDuquesaDev/laduquesa-blog)  
+📦 [Source code](https://github.com/LaDuquesaDev/laduquesa-blog)  
 Personal blog where I share articles related to technology and lifestyle as a software engineer.
 
 ---
 
 ### 🐶 [Coffey Pets](https://laduquesadev.github.io/coffey-ecommerce/)  
 **Stack:** React, TypeScript  
-📦 [Código fuente](https://github.com/LaDuquesaDev/coffey-ecommerce)  
+📦 [Source code](https://github.com/LaDuquesaDev/coffey-ecommerce)  
 Online pet products store (layout only), inspired by my little dog Coffey. Includes filtering, sorting and a responsive experience.
 
 ---
 
 ### 🔐 [Cifrado César](https://laduquesadev.github.io/Cifrado-Cesar/src/index.html)  
 **Stack:** HTML, CSS, JavaScript Vanilla  
-📦 [Código fuente](https://github.com/LaDuquesaDev/Cifrado-Cesar)  
+📦 [Source code](https://github.com/LaDuquesaDev/Cifrado-Cesar)  
 Application that encrypts and decrypts texts using the Caesar algorithm for secure communication.
 
 ---
 
 ### 🔗 [MD-LINKS](https://npmjs.com/package/md-links-yuli)  
 **Stack:** Node.js, JavaScript  
-📦 [Código fuente](https://github.com/LaDuquesaDev/md-links)  
+📦 [Source code](https://github.com/LaDuquesaDev/md-links)  
 Library and CLI to validate links in Markdown files. Ideal for maintaining clean and functional documentation.
 <br></br>
 
