@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli (or sometimes duchess)</h2>
+<h2 align="center">Hi 👋, my name is Yulimar, but everyone calls me Yuli (or sometimes Duquesa)</h2>
 <h3 align="center">Frontend & Mobile Developer | DevRel</h3>
 <p align="center">
   <strong>Creating impactful software with a passion for clean code and great UX</strong>
@@ -48,6 +48,13 @@ console.log(intro);
 
 ## 🚀 Featured Projects
 
+### ✒️ [La Duquesa Portfolio](https://laduquesadev-portfolio.vercel.app/)
+**Stack:** JavaScript, Astro, Tailwind CSS  
+📦 [Source code](https://github.com/LaDuquesaDev/laduquesadev-portfolio)  
+Portfolio where I showcase my projects, skills, and passion for creating beautiful and functional web experiences.
+
+---
+
 ### ✒️ [La Duquesa Blog](https://laduquesa-blog.vercel.app/)  
 **Stack:** Astro, TypeScript, Tailwind CSS  
 📦 [Source code](https://github.com/LaDuquesaDev/laduquesa-blog)  
@@ -59,13 +66,6 @@ Personal blog where I share articles related to technology and lifestyle as a so
 **Stack:** React, TypeScript  
 📦 [Source code](https://github.com/LaDuquesaDev/coffey-ecommerce)  
 Online pet products store (layout only), inspired by my little dog Coffey. Includes filtering, sorting and a responsive experience.
-
----
-
-### 🔐 [Cifrado César](https://laduquesadev.github.io/Cifrado-Cesar/src/index.html)  
-**Stack:** HTML, CSS, JavaScript Vanilla  
-📦 [Source code](https://github.com/LaDuquesaDev/Cifrado-Cesar)  
-Application that encrypts and decrypts texts using the Caesar algorithm for secure communication.
 
 ---
 
