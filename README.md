@@ -7,23 +7,40 @@
 ## Who I am?
 
 ```javascript
-const buildIntro = ({ name, techStack, learning, location, goals }) => `
-👩‍💻 ${name} — Frontend Developer  
-💡 Tech Stack: ${techStack.join(", ")}  
-📚 Learning: ${learning}  
-📍 Based in: ${location}  
-🎯 Goals: ${goals.join(" | ")}
-`;
+"use client"
 
-const intro = buildIntro({
-  name: "Yulimar Duque de Alba",
-  techStack: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
-  learning: "AI & Machine Learning",
-  location: "Medellín",
-  goals: ["Build impactful projects" | "Stay healthy" | "Have fun"],
-});
+import React from "react"
+import { PersonalIntroductionSection } from "@/styles/personal-introduction-styles"
 
-console.log(intro);
+interface PersonalInfo {
+  nombre: string
+  rol: string
+  tecnologias: string[]
+  aprendiendo: string
+  ubicacion: string
+  objetivos: string[]
+}
+
+const crearPresentacionPersonal = (info: PersonalInfo): string => {
+  return `👷 ${info.nombre} - ${info.rol}
+💡 Stack Tecnológico: ${info.tecnologias.join(", ")}
+📚 Aprendiendo: ${info.aprendiendo}
+📍 Ubicación: ${info.ubicacion}
+🎯 Objetivos: ${info.objetivos.join(" | ")}`
+}
+
+export const PersonalIntroduction = () => {
+  const presentacion = crearPresentacionPersonal({
+    nombre: "Yulimar Duque de Alba",
+    rol: "Frontend & Mobile Developer",
+    tecnologias: ["TypeScript", "React", "React Native", "Next.js", "Tailwind CSS"],
+    aprendiendo: "AI & Machine Learning",
+    ubicacion: "Medellín",
+    objetivos: ["Construir proyectos impactantes", "Mantenerse saludable", "Disfrutar del proceso"]
+  })
+
+  return <PersonalIntroductionSection>{presentacion}</PersonalIntroductionSection>
+}
 ```
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9iZHV96PZ6-7IzuT5eEMtg)
