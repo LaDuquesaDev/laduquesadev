@@ -79,10 +79,10 @@ Personal blog where I share articles related to technology and lifestyle as a so
 
 ---
 
-### 🐶 [Coffey Pets](https://laduquesadev.github.io/coffey-ecommerce/)  
-**Stack:** React, TypeScript  
-📦 [Source code](https://github.com/LaDuquesaDev/coffey-ecommerce)  
-Online pet products store (layout only), inspired by my little dog Coffey. Includes filtering, sorting and a responsive experience.
+### 🐶 [Pop Corner](https://github.com/LaDuquesaDev/popcorner)  
+**Stack:** React Native, TypeScript, Zustand, TanStack Query  
+📦 [Source code](https://github.com/LaDuquesaDev/popcorner)  
+A mobile experience for movie lovers who want to explore films, discover details, and create their own watchlist.
 
 ---
 
