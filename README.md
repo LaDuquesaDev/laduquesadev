@@ -86,6 +86,13 @@ A mobile experience for movie lovers who want to explore films, discover details
 
 ---
 
+### 🔗 [Chatbot App](https://github.com/LaDuquesaDev/chatbot_app)
+**Stack:** React Native, Expo  
+📦 [Source code](https://github.com/LaDuquesaDev/chatbot_app)  
+Chatbot trained to answer questions about the user's credit history.
+
+---
+
 ### 🔗 [MD-LINKS](https://npmjs.com/package/md-links-yuli)  
 **Stack:** Node.js, JavaScript  
 📦 [Source code](https://github.com/LaDuquesaDev/md-links)  
